@@ -1,0 +1,12 @@
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=533ExamSolution
+--content-root=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\Home\About.cshtml
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\Home\Contact.cshtml
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\Home\Index.cshtml
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\Shared\Error.cshtml
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\Shared\_Layout.cshtml
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\_ViewImports.cshtml
+--file=C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\Views\_ViewStart.cshtml

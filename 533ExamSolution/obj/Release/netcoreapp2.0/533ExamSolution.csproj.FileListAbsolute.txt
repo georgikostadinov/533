@@ -1,0 +1,11 @@
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\bin\Release\netcoreapp2.0\533ExamSolution.deps.json
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\bin\Release\netcoreapp2.0\533ExamSolution.runtimeconfig.json
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\bin\Release\netcoreapp2.0\533ExamSolution.runtimeconfig.dev.json
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\bin\Release\netcoreapp2.0\533ExamSolution.dll
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\bin\Release\netcoreapp2.0\533ExamSolution.pdb
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\obj\Release\netcoreapp2.0\533ExamSolution.csprojResolveAssemblyReference.cache
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\obj\Release\netcoreapp2.0\533ExamSolution.csproj.CoreCompileInputs.cache
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\obj\Release\netcoreapp2.0\533ExamSolution.AssemblyInfoInputs.cache
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\obj\Release\netcoreapp2.0\533ExamSolution.AssemblyInfo.cs
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\obj\Release\netcoreapp2.0\533ExamSolution.dll
+C:\Users\georgi.kostadinov\Documents\Visual Studio 2017\Projects\533ExamSolution\533ExamSolution\obj\Release\netcoreapp2.0\533ExamSolution.pdb
